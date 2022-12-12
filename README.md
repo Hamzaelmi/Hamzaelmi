@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hamzaelmi
-- 👀 I’m interested in Kotlin and android develpment
+- 👀 I’m interested in Kotlin and developing android apps.
 - 🌱 I’m currently learning Jetpack Compose
 - 💞️ I’m looking to collaborate on Compose projects
 - 📫 Write me at elmi.hamza@hotmail.com
